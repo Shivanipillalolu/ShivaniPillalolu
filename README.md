@@ -1,38 +1,14 @@
-# Welcome to My GitHub Profile! 👋
-
-Hello! I’m **Shivani Pillalolu**, an **Aspiring DevOps Engineer** with a passion for cloud technologies, automation, and efficient system deployments. I have hands-on experience in **AWS**, **Docker**, **CI/CD pipelines**, and **infrastructure automation**.
-
-Check out my repositories below to see the projects I’ve worked on, showcasing my skills in DevOps and cloud computing.
-
-## 🚀 Skills and Technologies
-- **Cloud:** AWS (EC2, Lambda, CloudFormation)
-- **CI/CD:** Jenkins, GitHub Actions, Docker, Kubernetes
-- **Scripting:** Bash, Python, Shell scripting
-- **Version Control:** Git, GitHub
-- **Automation:** Terraform, Ansible
-
-## 🎥 Technologies in Action
-
-### **Docker** 🐳
-![Docker](https://media.giphy.com/media/xT5LMVgLU1l2zYJ5vO/giphy.gif)
-
-### **Linux** 🐧
-![Linux](https://media.giphy.com/media/1y7Jrb9mU7wXnCk5HZ/giphy.gif)
-
-### **Terraform** 🔧
-![Terraform](https://media.giphy.com/media/l0HlMwVmyM7w9NTpS/giphy.gif)
-
-### **Kubernetes** ☸️
-![Kubernetes](https://media.giphy.com/media/3ohs4okBqzriDpkJzi/giphy.gif)
-
-### **GitHub** 🐙
-![GitHub](https://media.giphy.com/media/1FfABv9sOHnkQQ9yq2/giphy.gif)
-
-### **Jenkins** 🛠️
-![Jenkins](https://media.giphy.com/media/l0MyZXsmjSktjqkX6/giphy.gif)
+<h1 align="center">Hi 👋, I'm Shivani Pillalolu</h1>
+<h3 align="center">I’m currently learning and growing in the DevOps field, focusing on **AWS**, **cloud automation**, and **infrastructure as code**. I enjoy solving complex technical challenges and continuously improving deployment processes.</h3>
 
 
 
+<h3 align="left"></h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ShivaniPillalolu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ShivaniPillalolu" /></a></p><br><br>
