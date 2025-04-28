@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Pillalolu</h1>
-<h3 align="center">I’m currently learning and growing in the DevOps field, focusing on **AWS**, **cloud automation**, and **infrastructure as code**. I enjoy solving complex technical challenges and continuously improving deployment processes.</h3>
+<h3 align="center">I’m currently learning and growing in the DevOps field, focusing on AWS, cloud automation, and infrastructure as code. I enjoy solving complex technical challenges and continuously improving deployment processes.</h3>
 
 
 
